@@ -13,6 +13,9 @@
 ## Tableau Dashboard
 #### The main dashboard provides an interactive view of road accident statistics, including geographical distribution, severity levels, and contributing factors
 
+![image](https://github.com/rekhadivay/LHL_CapstoneProject_RoadAccidentsAnalysis_Tableau/assets/116858892/ae2f8c4b-54f6-4fdf-ba9e-e0c971ed3c27)
+
+
 
 ## Key Visualizations
 1. Geographical Distribution Map: Visual representation of accident locations.
